@@ -1,0 +1,16 @@
+SD Edificações e Investimentos - versão SEO Steel Frame
+
+Alterações desta versão:
+- Inclusão de uma seção educativa "O que é Steel Frame e onde ele faz sentido?".
+- Reforço de aplicações genéricas: casas, obras comerciais, studios, anexos, ampliações e reformas.
+- Benefícios ampliados com foco em precisão, obra limpa, menos desperdício, leveza, versatilidade e previsibilidade.
+- FAQ expandida para melhorar SEO e reduzir dúvidas do visitante.
+- Adição de dados estruturados FAQPage no HTML.
+- Remoção dos travessões desnecessários nos textos de cards de serviços.
+- Textos ajustados para termos como Steel Frame em Brasília, Light Steel Frame, construção a seco e construtora Steel Frame DF.
+
+Observação:
+Foram evitados percentuais e promessas específicas de prazo, custo ou economia, porque esses números devem ser usados somente quando o cliente confirmar tecnicamente.
+
+Para publicar:
+Envie todo o conteúdo deste pacote para o servidor, mantendo o index.html junto da pasta assets.
